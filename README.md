@@ -145,4 +145,4 @@
 </div>
 
 ###
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mowsix)](https://github.com/SrGobi/github-readme-stats) 
+[![mowsix's GitHub stats](https://github-readme-stats.vercel.app/api?username=mowsix)](https://github.com/mowsix/github-readme-stats) 
